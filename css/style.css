@@ -49,3 +49,20 @@ thead {
 .cell-bigger {
     width: 60%;
 }
+
+.title-footer {
+    color: gray;
+}
+
+.box-img {
+    width: 312px;
+    height: 208px;
+    color: #fff;
+    font-size: 22px;
+}
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+#graph {
+    background-image: url('../img/graph.jpg');
+}
