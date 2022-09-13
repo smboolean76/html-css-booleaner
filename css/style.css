@@ -8,3 +8,44 @@ header {
 .logo {
     height: 60px;
 }
+
+h1 {
+    font-size: 42px;
+}
+
+/* .container {
+    max-width: 1100px;
+    margin: auto;
+} */
+
+.author {
+    color: gray;
+}
+.author-credit {
+    margin-bottom: 0;
+}
+.author-link {
+    color: #20A9E5;
+    text-decoration: none;
+}
+/* .author-credit a {
+    color: #20A9E5;
+} */
+.captions {
+    font-size: 14px;
+}
+
+table {
+    border-collapse: collapse;
+}
+thead {
+    background-color: #20A9E5;
+    color: #fff;
+    text-align: left;
+}
+.table-row {
+    background-color: #b1e5f2;
+}
+.cell-bigger {
+    width: 60%;
+}
